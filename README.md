@@ -1,2 +1,7 @@
 # Music-Player-
-Simple desktop music player that allows users to add music and play it
+Simple desktop music player.
+This application allows users to add any number of music files and it has the following features 
+* Pause: Pauses media at the current position.
+* Play: Plays media from the current position.
+* Stop: Stops and resets media to be played from the beginning
+
