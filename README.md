@@ -1,5 +1,5 @@
 # Music-Player-
-Simple desktop music player using **axWindowsMediaPlayer1**.
+Simple desktop music player using **axWindowsMediaPlayer**.
 This application allows users to add any number of music files and it has the following features 
 * Pause: Pauses media at the current position.
 * Play: Plays media from the current position.
