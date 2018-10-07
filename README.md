@@ -6,5 +6,5 @@ This application allows users to add any number of music files and it has the fo
 * Stop: Stops and resets media to be played from the beginning
 
 **Layout**
-![](assets/music player layout.PNG)
-![](assets/music player 1.PNG)
+![](https://github.com/fouad1995/Music-Player-/blob/master/assets/music%20player%20layout.PNG)
+
